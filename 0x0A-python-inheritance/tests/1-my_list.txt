@@ -30,8 +30,8 @@ case 2: not defined object
 >>> my_list2.print_sorted()
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-  NameError: name 'my_list2' is not defined
-  >>>
+NameError: name 'my_list2' is not defined
+>>>
 
 -------------------------------------------
 
@@ -85,8 +85,8 @@ case 7: parent object
 >>> my_list.print_sorted()
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-  AttributeError: 'list' object has no attribute 'print_sorted'
-  >>>
+AttributeError: 'list' object has no attribute 'print_sorted'
+>>>
 
 -------------------------------------------
 
