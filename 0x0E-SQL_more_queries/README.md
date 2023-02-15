@@ -1,5 +1,5 @@
 # SQL - More queries
-**ALX Software Engineering project** at **ALX School**. Students to learn about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL**.
+**ALX Software Engineering project** at the **ALX School**. Students to learn about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL**.
 
 
 ![](https://miro.medium.com/max/768/1*94n7Yjm2xml9dVFbTph0hA.jpeg)
