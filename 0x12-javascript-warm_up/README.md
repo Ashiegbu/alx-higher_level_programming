@@ -3,7 +3,7 @@
 ## Description
 The aim of this project is to get started with Javascript, learn all the syntax and its different uses.
 
-https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/303/Javascript-535.png.jpeg
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/303/Javascript-535.png.jpeg)
 
 ![](https://devs.lol/uploads/2022/06/meme-dev-humor-you-cant-learn-javascript-in-30-days-295.jpg)
 
