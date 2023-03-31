@@ -1,0 +1,2 @@
+# 0x11. Python - Network #1
+This directory contains files created in response to tasks set forth in the **ALX Software Engineering Program** "0x11. Python - Network #1". These scripts demonstrate a basic introduction to networking with bash and python.
